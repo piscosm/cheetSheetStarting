@@ -1,0 +1,26 @@
+body{
+    background-color: silver;
+    font-family: Georgia;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+table{
+    border: 2px solid darkmagenta;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+th{
+    background-color: violet;
+}
+td{
+    border-top: 1px solid darkorchid;
+}
+.code{
+    background-color: rgb(238, 231, 173);
+}
